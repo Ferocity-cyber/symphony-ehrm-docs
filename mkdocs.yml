@@ -1,0 +1,14 @@
+site_name: Symphony eHRM User Manual
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Initial Setup:
+    - Leave Type Setup: initial-setup/leave-type-setup.md
+  - Employee Setup:
+    - Adding a New Employee: employee-setup/adding-employee.md
+  - Leave Management:
+    - Leave Allocation & Application: leave-management/leave-allocation-application.md
+  - Payroll Management:
+    - Running Payroll: payroll-management/running-payroll.md
+docs_dir: docs
