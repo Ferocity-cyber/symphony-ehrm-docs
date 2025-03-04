@@ -1,4 +1,3 @@
- 
 # Leave Allocation & Application
 
 Manage leave entitlements and applications efficiently with Symphony eHRM.
@@ -20,10 +19,10 @@ Employees can submit leave requests as follows:
 1. Navigate to **HR Module > Leave Application**.
 2. Click **New Leave Application**.
 3. Select:
-   - **Leave Type**: e.g., Annual Leave.
-   - **Start Date & End Date**: Duration of the leave.
-   - **Reason for Leave**: Brief explanation.
-   - Attach supporting documents if required.
+     - **Leave Type**: e.g., Annual Leave.
+     - **Start Date & End Date**: Duration of the leave.
+     - **Reason for Leave**: Brief explanation.
+     - Attach supporting documents if required.
 4. Click **Submit** to apply.
 
 HR/Admin can review and approve/reject requests under **INBOX > HR Module > Leave Application**.
