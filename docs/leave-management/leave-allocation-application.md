@@ -1,4 +1,3 @@
- 
 # Leave Allocation & Application
 
 Manage leave entitlements and applications efficiently with Symphony eHRM.

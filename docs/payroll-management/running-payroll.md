@@ -1,4 +1,4 @@
- # Running Payroll
+# Running Payroll
 
 Payroll processing ensures timely employee compensation in Symphony eHRM.
 

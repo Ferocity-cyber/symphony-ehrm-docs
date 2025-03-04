@@ -1,4 +1,3 @@
- 
 # Adding a New Employee
 
 Adding employees is crucial for managing HR functions within Symphony eHRM.
